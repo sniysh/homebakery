@@ -1,4 +1,4 @@
-# Benson's Bakery Website
+# Home Bakery Website
 
 This is a static bakery landing site converted from the provided Elementor export and designed to be deployed on GitHub Pages without any Node modules.
 
